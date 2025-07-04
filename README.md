@@ -6,13 +6,13 @@ completed Task 1:
 
 Transform raw e-commerce transaction data into meaningful insights by:
 
-✅ Identifying top-performing products
+✅ Identifying top-performing products.
 
-✅ Analyzing country-wise revenue contribution
+✅ Analyzing country-wise revenue contribution.
 
-✅ Tracking monthly and yearly sales trends
+✅ Tracking monthly and yearly sales trends.
 
-✅ Visualizing customer and product-level performance
+✅ Visualizing customer and product-level performance.
 
 🛠️ Key Skills Applied & Gained:
 
